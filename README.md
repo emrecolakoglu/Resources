@@ -6,6 +6,8 @@
 ##Swift
 [Treehouse](http://teamtreehouse.com/learn-swift)
 [Stanford Class](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+[Apple Swift Resources](https://developer.apple.com/swift/resources/)
+[iOS Developer Library](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 
 ##Other Programming 
 [Learnable Programming](http://worrydream.com/#!/LearnableProgramming)
